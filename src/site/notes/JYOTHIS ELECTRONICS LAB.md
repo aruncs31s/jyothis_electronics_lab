@@ -4,6 +4,11 @@
 
 # JYOTHIS ELECTRONICS LAB
 
+![Pasted image 20250829122157.png](/img/user/attachments/Pasted%20image%2020250829122157.png)
+
+
+> Labs 
+> - [[Labs/Electronics/S3/S3\|S3]]
 
 
 Test Contents
